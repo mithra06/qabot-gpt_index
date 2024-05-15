@@ -1,0 +1,7 @@
+transformers
+torch
+requests
+Pillow 
+uvicorn
+streamlit
+python-multipart
